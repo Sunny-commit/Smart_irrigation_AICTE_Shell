@@ -105,7 +105,7 @@ The **Smart Sprinkler System** addresses inefficient irrigation through an intel
 
 Insert a screenshot of the Streamlit app here:
 
-**➡️ \[Smart Sprinkler System_00.png]**
+**➡️ \[[Smart Sprinkler System_00.png](https://github.com/Sunny-commit/Smart_irrigation_AICTE_Shell/blob/main/Smart%20Sprinkler%20System_00.png)]**
 
 *The image should include:*
 
