@@ -105,7 +105,7 @@ The **Smart Sprinkler System** addresses inefficient irrigation through an intel
 
 Insert a screenshot of the Streamlit app here:
 
-**➡️ \[C:\Users\patet\OneDrive\Desktop\Smart Sprinkler System]**
+**➡️ \[Smart Sprinkler System_00.png]**
 
 *The image should include:*
 
